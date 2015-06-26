@@ -1,0 +1,8 @@
+c:\users\sattas\documents\visual studio 2012\Projects\BraceMatchingTest\BraceMatchingTest\obj\Debug\BraceMatchingTest.csprojResolveAssemblyReference.cache
+c:\users\sattas\documents\visual studio 2012\Projects\BraceMatchingTest\BraceMatchingTest\bin\Debug\BraceMatchingTest.dll
+c:\users\sattas\documents\visual studio 2012\Projects\BraceMatchingTest\BraceMatchingTest\bin\Debug\BraceMatchingTest.pdb
+c:\users\sattas\documents\visual studio 2012\Projects\BraceMatchingTest\BraceMatchingTest\bin\Debug\BraceMatchingTest.vsix
+c:\users\sattas\documents\visual studio 2012\Projects\BraceMatchingTest\BraceMatchingTest\bin\Debug\extension.vsixmanifest
+c:\users\sattas\documents\visual studio 2012\Projects\BraceMatchingTest\BraceMatchingTest\obj\Debug\BraceMatchingTest.dll
+c:\users\sattas\documents\visual studio 2012\Projects\BraceMatchingTest\BraceMatchingTest\obj\Debug\BraceMatchingTest.pdb
+c:\users\sattas\documents\visual studio 2012\Projects\BraceMatchingTest\BraceMatchingTest\obj\Debug\extension.vsixmanifest

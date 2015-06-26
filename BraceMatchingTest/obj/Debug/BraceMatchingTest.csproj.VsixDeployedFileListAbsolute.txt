@@ -1,0 +1,3 @@
+C:\Users\sattas\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\BraceMatchingTest\1.0\\BraceMatchingTest.dll
+C:\Users\sattas\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\BraceMatchingTest\1.0\\extension.vsixmanifest
+C:\Users\sattas\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\BraceMatchingTest\1.0\\BraceMatchingTest.pdb
